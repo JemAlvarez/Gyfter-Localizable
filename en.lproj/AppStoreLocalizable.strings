@@ -1,0 +1,58 @@
+/* AppStore */
+
+/* Promo */
+"Get Gyfting! :)" = "Get Gyfting! :)";
+
+/* Description */
+"
+
+Gyfter helps you remember all those special occasions you might forget about, but you know you shouldn't, like birthdays, anniversaries, or any other Gyfting occasion.
+Simply add your custom occasions, combined with the globally accepted Gyfting dates already predefined in the app and never forget to "Gyft" a loved one. Get notified well before the occasion so have time to plan the most epic Gyft ever.
+
+Features:
+* All your occasions synced across your all Apple devices
+* Select from a list of predefined globally known "Gyfting" dates
+* Get notified beforehand
+* Review all you Occasions in different viewing formats
+* Sort your occasions to easily find, edit, review them
+
+"
+=
+"
+
+Gyfter helps you remember all those special occasions you might forget about, but you know you shouldn't, like birthdays, anniversaries, or any other Gyfting occasion.
+Simply add your custom occasions, combined with the globally accepted Gyfting dates already predefined in the app and never forget to "Gyft" a loved one. Get notified well before the occasion so have time to plan the most epic Gyft ever.
+
+Features:
+* All your occasions synced across your all Apple devices
+* Select from a list of predefined globally known "Gyfting" dates
+* Get notified beforehand
+* Review all you Occasions in different viewing formats
+* Sort your occasions to easily find, edit, review them
+
+";
+
+/* Keywords */
+"gift, occasion, reminder, birthday, anniversary, remember, forget, mother, wedding, day, event, noti" = "gift, occasion, reminder, birthday, anniversary, remember, forget, mother, wedding, day, event, noti";
+
+/* Screenshot 1 */
+"All your Occasions in one place" = "All your Occasions in one place";
+"Keep them synced across all your devices" = "Keep them synced across all your devices";
+/* Screenshot 2 */
+"Create your custom Occasions" = "Create your custom Occasions";
+"Never forget to Gyft your loved ones again" = "Never forget to Gyft your loved ones again";
+/* Screenshot 3 */
+"Sort your occasions" = "Sort your occasions";
+"Easy to find, edit, and review" = "Easy to find, edit, and review";
+
+/* Name */
+"Gyfter - Occasion Reminder" = "Gyfter - Occasion Reminder";
+
+/* Subtitle */
+"Don't forget to Gyfting" = "Don't forget to Gyfting";
+
+/* IAP */
+/* Display Name */
+"Supporter" = "Supporter";
+/* Description */
+"Support me and get extra features :)" = "Support me and get extra features :)";
