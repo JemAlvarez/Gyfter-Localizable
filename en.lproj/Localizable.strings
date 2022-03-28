@@ -22,6 +22,35 @@
     AND IF IT DOES NOT WORK, YOU CAN FOLLOW THE ABOVE INSTRUCTIONS
 */
 
+/* Watch */
+
+/* No comment provided by engineer. */
+"%lld %@" = "%lld %@";
+
+"Yes" = "Yes";
+
+"No" = "No";
+
+/* No comment provided by engineer. */
+"Recurring: %@" = "Recurring: %@";
+
+/* No comment provided by engineer. */
+"Relationship: %@" = "Relationship: %@";
+
+/* No comment provided by engineer. */
+"Remind %lld days before" = "Remind %lld days before";
+
+/* No comment provided by engineer. */
+"Date: %@" = "Date: %@";
+
+/* No comment provided by engineer. */
+"In: %@" = "In: %@";
+
+/* No comment provided by engineer. */
+"Occasions" = "Occasions";
+
+/* iOS+iPadOS */
+
 /* Keep in mind the leading space */
 " days before" = " days before";
 
