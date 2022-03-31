@@ -1,0 +1,607 @@
+/*
+  Localizable.strings
+  Gyfter
+
+  Created by Jem Alvarez on 3/26/22.
+  
+*/
+
+/*
+    PLEASE KEEP IN MIND THE LEADING AND TRAILING SPACES
+    TEHY ARE IMPORTANT
+*/
+
+/*
+    FOR THE APOSTROPHES THAT ARE ON THEIR OWN ("'s")
+    YOU CAN JUST LEAVE IT BLANK (with a space if required) IF
+    THE ORDER OF THE WORDS CHANGES ON YOUR LANGUAGE
+    IF IT DOES NOT CHANGE, YOU CAN GO AHEAD AND MAKE THE APPROPRIATE TRANSLATION
+ 
+    FOR APOSTROPHES WITH %@ OR OTHER INTERPOLATED SYMBOLS
+    YOU MAKE THE APPROPRIATE TRANSLATION
+    AND IF IT DOES NOT WORK, YOU CAN FOLLOW THE ABOVE INSTRUCTIONS
+*/
+
+/* Watch */
+
+/* No comment provided by engineer. */
+"%lld %@" = "%lld %@";
+
+"Yes" = "Si";
+
+"No" = "No";
+
+"For:" = "Para:";
+
+/* No comment provided by engineer. */
+"Recurring: %@" = "Recurrente: %@";
+
+/* No comment provided by engineer. */
+"Relationship: %@" = "Relación: %@";
+
+/* No comment provided by engineer. */
+"Remind %lld days before" = "Recordar %lld días antes";
+
+/* No comment provided by engineer. */
+"Date: %@" = "Fecha: %@";
+
+/* No comment provided by engineer. */
+"In: %@" = "En: %@";
+
+/* No comment provided by engineer. */
+"Occasions" = "Ocasiones";
+
+/* iOS+iPadOS */
+
+"Help translate" = "Ayude a traducir";
+
+/* Keep in mind the leading space */
+" days before" = " días antes";
+
+/* Occasion General Card 's */
+"%@'s" = "%@";
+
+/* Keep in mind the trailing space. */
+"%@'s " = "%@ ";
+
+/* 'Name's Birthday' */
+"%@'s %@" = "%@, %@";
+
+/* No comment provided by engineer. */
+"%lld %@ and %lld %@" = "%lld %@ y %lld %@";
+
+/* No comment provided by engineer. */
+"%lld %@, %lld %@ and %lld %@" = "%lld %@, %lld %@ y %lld %@";
+
+/* No comment provided by engineer. */
+"%lld day before" = "%lld día antes";
+
+/* No comment provided by engineer. */
+"%lld days" = "%lld días";
+
+/* No comment provided by engineer. */
+"%lld days before" = "%lld días antes";
+
+/* No comment provided by engineer. */
+"%lld Occasions" = "%lld Ocasiones";
+
+/* No comment provided by engineer. */
+"1 Occasion" = "1 Ocasión";
+
+/* No comment provided by engineer. */
+"50 Occasion Limit" = "Límite de 50 ocasiones";
+
+/* No comment provided by engineer. */
+"A-Z" = "A-Z";
+
+/* No comment provided by engineer. */
+"Accept" = "Aceptar";
+
+/* No comment provided by engineer. */
+"Add as many gifting occasions as you want (birthday, anniversary, mother's day, etc.)." = "Agregue cuantas ocasiones de regalo desee (cumpleaños, aniversario, día de madres, etc.)";
+
+/* No comment provided by engineer. */
+"Add occasion" = "Agregar ocasión";
+
+/* No comment provided by engineer. */
+"Alternate App Icon" = "Icono de Aplicación Alternativa";
+
+/* No comment provided by engineer. */
+"Alternate icons" = "Iconos alternativos";
+
+/* No comment provided by engineer. */
+"Animations - Jeffrey" = "Animaciones - Jeffrey";
+
+/* No comment provided by engineer. */
+"App Version: %@" = "Versión de la aplicación: %@";
+
+/* No comment provided by engineer. */
+"Are you sure you want to delete this occasion?" = "¿Seguro de que desea eliminar esta ocasión?";
+
+/* No comment provided by engineer. */
+"Are you sure?" = "¿Está seguro?";
+
+/* No comment provided by engineer. */
+"Avatar style" = "Estilo de avatar";
+
+/* No comment provided by engineer. */
+"Avatars - DiceBear" = "Avatares - DiceBear";
+
+/* No comment provided by engineer. */
+"Aww 😢😅" = "Aww 😢😅";
+
+/* No comment provided by engineer. */
+"Background Color" = "Color de Fondo";
+
+/* No comment provided by engineer. */
+"Background Illustration" = "Ilustración de Fondo";
+
+/* No comment provided by engineer. */
+"Become a Supporter" = "Conviértete en Apoyador";
+
+/* No comment provided by engineer. */
+"Built with ❤️ by Jem on 🌎" = "Construida con ❤️ por Jem en 🌎";
+
+/* No comment provided by engineer. */
+"By becoming a 'Supporter', you support me and also get these extra features :)" = "Convertiendose en 'Apoyador', me apoya y también obtiene estas funciones adicionales :)";
+
+/* No comment provided by engineer. */
+"Can't edit global Occasions" = "No se pueden editar las Ocasiones globales";
+
+/* No comment provided by engineer. */
+"Cancel" = "Cancelar";
+
+/* No comment provided by engineer. */
+"Card's background color" = "Color de fondo de la tarjeta";
+
+/* No comment provided by engineer. */
+"Change card background color?" = "¿Cambiar el color del fondo de la tarjeta?";
+
+/* No comment provided by engineer. */
+"Christmas" = "Navidad";
+
+/* No comment provided by engineer. */
+"Christmas Alternate" = "Alternativo de Navidad";
+
+/* No comment provided by engineer. */
+"Credits" = "Créditos";
+
+/* No comment provided by engineer. */
+"Custom Card Colors" = "Colores de Rarjeta Personalizados";
+
+/* No comment provided by engineer. */
+"Custom Card Illustrations" = "Ilustraciones de Cartas Personalizadas";
+
+/* No comment provided by engineer. */
+"Danger" = "Peligro";
+
+/* No comment provided by engineer. */
+"Dark" = "Oscuro";
+
+/* No comment provided by engineer. */
+"Dark mode" = "Modo oscuro";
+
+/* No comment provided by engineer. */
+"Date" = "Fecha";
+
+/* No comment provided by engineer. */
+"day" = "día";
+
+/* No comment provided by engineer. */
+"days" = "dias";
+
+/* No comment provided by engineer. */
+"Days to remind ahead" = "Días para recordar con anticipación";
+
+/* No comment provided by engineer. */
+"Default" = "Predeterminado";
+
+/* No comment provided by engineer. */
+"Default Alternate" = "Alternativa Predeterminado";
+
+/* No comment provided by engineer. */
+"DELETE" = "ELIMINAR";
+
+/* No comment provided by engineer. */
+"Description" = "Descripción";
+
+/* No comment provided by engineer. */
+"Design" = "Diseño";
+
+/* No comment provided by engineer. */
+"Disabling or enabling notifications is shared across all of your devices" = "La inhabilitación o habilitación de notificaciones es compartida en todos sus dispositivos";
+
+/* No comment provided by engineer. */
+"Don't forget to gift your loved ones on any special occasion." = "No olvides regalar a tus seres queridos en cualquier ocasión especial";
+
+/* No comment provided by engineer. */
+"Done!" = "¡Listo!";
+
+/* No comment provided by engineer. */
+"Email" = "Correo electrónico";
+
+/* No comment provided by engineer. */
+"English" = "Inglés";
+
+/* No comment provided by engineer. */
+"Enter a person's name" = "Ingrese el nombre de una persona";
+
+/* No comment provided by engineer. */
+"for Supporting me" = "por apoyarme";
+
+/* No comment provided by engineer. */
+"Fourth of July" = "Cuatro de Julio";
+
+/* No comment provided by engineer. */
+"Fourth of July Alternate" = "Cuatro de Julio Alternativo";
+
+/* No comment provided by engineer. */
+"General" = "General";
+
+/* No comment provided by engineer. */
+"Get Gyfting!" = "¡Valla a regalar!";
+
+/* No comment provided by engineer. */
+"Get in touch" = "Pongase en contacto";
+
+/* No comment provided by engineer. */
+"Get Notified" = "Obtener notificación";
+
+/* No comment provided by engineer. */
+"Global dates" = "Fechas globales";
+
+/* No comment provided by engineer. */
+"Go Gyft Love" = "Valla a Regalar Amor";
+
+/* No comment provided by engineer. */
+"Go to setting to edit" = "Valla a configuración para editar";
+
+/* No comment provided by engineer. */
+"Go to settings" = "Valla a configuración";
+
+/* No comment provided by engineer. */
+"Graphics - unDraw" = "Gráficos - unDraw";
+
+/* No comment provided by engineer. */
+"Happening" = "Sucediendo";
+
+/* No comment provided by engineer. */
+"Illustrations" = "Ilustraciones";
+
+/* No comment provided by engineer. */
+"Illustrations - Maria" = "Ilustraciones  - Maria";
+
+/* No comment provided by engineer. */
+"in %@" = "en %@";
+
+/* No comment provided by engineer. */
+"Include description?" = "¿Incluir descripción?";
+
+/* No comment provided by engineer. */
+"Include person name?" = "¿Incluir nombre de persona?";
+
+/* No comment provided by engineer. */
+"Keep all your Apple devices synced." = "Mantenga todos sus dispositivos de Apple sincronizados.";
+
+/* No comment provided by engineer. */
+"Keep track of your upcoming occasions from your home screen to reduce the chance of forgetting even more." = "Sigua sus próximas ocasiones desde su pantalla de inicio para reducir la posibilidad de olvidar aún más.";
+
+/* No comment provided by engineer. */
+"Language" = "Idioma";
+
+/* No comment provided by engineer. */
+"Languages" = "Idiomas";
+
+/* No comment provided by engineer. */
+"Light" = "Claro";
+
+/* No comment provided by engineer. */
+"Link copied to clipboard" = "Enlace copiado";
+
+/* No comment provided by engineer. */
+"Look at your upcoming occasions in a timeline so you can keep track of what is nearing." = "Mire sus próximas ocasiones en una línea de tiempo para que pueda seguir las que se acerca";
+
+/* No comment provided by engineer. */
+"Looks like you haven't made a purchase" = "Parece que no ha realizado ninguna compra";
+
+/* No comment provided by engineer. */
+"month" = "mes";
+
+/* No comment provided by engineer. */
+"months" = "meses";
+
+/* No comment provided by engineer. */
+"Next date: %@" = "Próxima fecha: %@";
+
+/* No comment provided by engineer. */
+"No items to restore" = "No hay compras para restaurar";
+
+/* No comment provided by engineer. */
+"Notifications" = "Notificaciones";
+
+/* No comment provided by engineer. */
+"Notifications alert you when an Occasion is **\"Added/Updated/Deleted\"** on another one of your devices so you can **\"Add/Update/Delete\"** the notifications on the current device." = "Las notificaciones le avisan cuando se **\"Agrega/Actualiza/Elimina\"** una Ocasión en otro de sus dispositivos para que pueda **\"Agregar/Actualizar/Eliminar\"** las notificaciones en el dispositivo actual.";
+
+/* No comment provided by engineer. */
+"Occasion" = "Ocasión";
+
+/* No comment provided by engineer. */
+"Occasion Added" = "Ocasión Añadida";
+
+/* No comment provided by engineer. */
+"Occasion Deleted" = "Ocasión Eliminada";
+
+/* No comment provided by engineer. */
+"Occasion Updated" = "Ocasión Actualizada";
+
+/* No comment provided by engineer. */
+"One" = "Uno";
+
+/* No comment provided by engineer. */
+"Person" = "Persona";
+
+/* No comment provided by engineer. */
+"Pick a background" = "Elija un fondo";
+
+/* No comment provided by engineer. */
+"Pick what days you want to be reminded about from globally recognized Gyfting dates." = "Elija que días quiere que se le recuerde, de las fechas de regalo reconocidas a nivel mundial.";
+
+/* No comment provided by engineer. */
+"Pink" = "Rosa";
+
+/* No comment provided by engineer. */
+"Pink Alternate" = "Rosa Alternativo";
+
+/* No comment provided by engineer. */
+"Preview" = "Vista previa";
+
+/* No comment provided by engineer. */
+"Rate in App Store" = "Valorar en App Store";
+
+/* No comment provided by engineer. */
+"Recurring" = "Recurrente";
+
+/* No comment provided by engineer. */
+"Remember Gyfting Seasons" = "Recuerde Temporadas de Regalo";
+
+/* Keep in mind the trailing space */
+"Remind " = "Recordar ";
+
+/* No comment provided by engineer. */
+"Reminders Synced" = "Recordatorios sincronizados";
+
+/* No comment provided by engineer. */
+"Reminding %lld days before" = "Recordando %lld días antes";
+
+/* No comment provided by engineer. */
+"Reminding 1 day before" = "Recordando 1 día antes";
+
+/* No comment provided by engineer. */
+"Remove occasion" = "Quitar ocasión";
+
+/* No comment provided by engineer. */
+"Reset app" = "Restablecer aplicación";
+
+/* No comment provided by engineer. */
+"Restore Purchases" = "Restaurar Compras";
+
+/* No comment provided by engineer. */
+"Sad to see you cancel" = "Triste de verte cancelar";
+
+/* No comment provided by engineer. */
+"SAVE" = "GUARDAR";
+
+/* No comment provided by engineer. */
+"Schedule every year?" = "¿Recordar todos los años?";
+
+/* No comment provided by engineer. */
+"Scheduled occasions" = "Ocasiones programadas";
+
+/* No comment provided by engineer. */
+"Select from Global Gyfting Dates" = "Seleccione de los Días de Regalo Globales";
+
+/* No comment provided by engineer. */
+"Set Custom Gyfting Occasions" = "Haga Ocasiones de Regalo Personalizadas";
+
+/* No comment provided by engineer. */
+"Set notifications prior to the occasion so you have time to plan the perfect Gyft." = "Reciba notificaciones antes de la ocasión para que tenga tiempo de planificar el regalo perfecto.";
+
+/* No comment provided by engineer. */
+"Settings" = "Configuración";
+
+/* No comment provided by engineer. */
+"Share" = "Compartir";
+
+/* No comment provided by engineer. */
+"Share with friends" = "Compartir con amigos";
+
+/* No comment provided by engineer. */
+"Spanish" = "Español";
+
+/* No comment provided by engineer. */
+"Start scheduling your loved ones' Gyfts." = "Comience a programar los regalos de sus seres queridos.";
+
+/* No comment provided by engineer. */
+"Support for %@" = "Apoye por %@";
+
+/* No comment provided by engineer. */
+"Supporter Features" = "Características de Apoyador";
+
+/* No comment provided by engineer. */
+"Syncing" = "Sincronizando";
+
+/* No comment provided by engineer. */
+"System" = "Sistema";
+
+/* No comment provided by engineer. */
+"Thank you" = "Gracias";
+
+/* No comment provided by engineer. */
+"Theme" = "Tema";
+
+/* No comment provided by engineer. */
+"Three" = "Tres";
+
+/* No comment provided by engineer. */
+"Timeline" = "Línea de tiempo";
+
+/* No comment provided by engineer. */
+"Title" = "Título";
+
+/* No comment provided by engineer. */
+"tomorrow" = "mañana";
+
+/* No comment provided by engineer. */
+"Twitter" = "Twitter";
+
+/* No comment provided by engineer. */
+"Two" = "Dos";
+
+/* No comment provided by engineer. */
+"Unable to edit" = "No se puede editar";
+
+/* No comment provided by engineer. */
+"Unscheduled occasions" = "Ocasiones no programadas";
+
+/* No comment provided by engineer. */
+"Warning! This action cannot be undone. This will reset all the settings in the app, and reset all saved occasions." = "¡Advertencia! Esta acción no se puede deshacer. Esto restablecerá todas las configuraciones en la aplicación y restablecerá todas las ocasiones guardadas";
+
+/* No comment provided by engineer. */
+"Widgets" = "Widgets";
+
+/* No comment provided by engineer. */
+"year" = "año";
+
+/* No comment provided by engineer. */
+"years" = "años";
+
+/* No comment provided by engineer. */
+"You can only have 50 occasions saved at any one time. Delete any unimportant ones if you wish to add more." = "Solo puede tener 50 ocasiones guardadas a la vez. Elimine las que no sean importantes si desea agregar más.";
+
+/* No comment provided by engineer. */
+"Your reminders were successfully synced on this device!" = "¡Tus recordatorios se sincronizaron correctamente en este dispositivo!";
+
+/* No comment provided by engineer. */
+"Z-A" = "Z-A";
+
+/* Notifications */
+
+"days until" = "días hasta";
+
+/* Keep in mind the trailing space */
+"'s " = " ";
+
+"Reschedule reminder for" = "Reprogramar recordatorio para";
+
+"Open the app to ensure you are reminded next year about" = "Abra la aplicación para asegurarse de que se le recuerde el próximo año sobre";
+
+"Schedule Notification" = "Programar Notificación";
+
+"Update Notification" = "Actualizar Notificación";
+
+"Remove Notification" = "Eliminar Notificación";
+
+"Occasion deleted" = "Ocasión eliminada";
+
+"Occasion updated" = "Ocasión actualizada";
+
+"Occasion added" = "Ocasión añadida";
+
+"Open the app to ensure reminders sync on this device too!" = "¡Abra la aplicación para asegurarse de que los recordatorios también se sincronicen en este dispositivo!";
+
+/* Occasion Types */
+
+"Birthday" = "Cumpleaños";
+
+"Anniversary" = "Aniversario";
+
+"Wedding Day" = "Día de boda";
+
+"Housewarming" = "Inauguración de casa";
+
+"Baby Shower" = "Fiesta de bebe";
+
+"Graduation" = "Graduación";
+
+"Christmas" = "Navidad";
+
+"Valentine's" = "San Valentín";
+
+"St. Patrick's Day" = "Día de San Patricio";
+
+"Fourth Of July" = "Cuatro de julio";
+
+"Easter" = "Pascua";
+
+"Mother's Day" = "Día de las Madres";
+
+"Father's Day" = "Día de los Padres";
+
+"Chinese New Year" = "Año Nuevo Chino";
+
+"Memorial Day" = "Día de los Caídos";
+
+"Thanksgiving" = "Acción de Gracias";
+
+/* Relationships Types */
+
+"Mother" = "Madre";
+
+"Father" = "Padre";
+
+"Parent" = "Padre";
+
+"Grandfather" = "Abuelo";
+
+"Grandmother" = "Abuela";
+
+"Grandparent" = "Abuelo";
+
+"Brother" = "Hermano";
+
+"Sister" = "Hermana";
+
+"Sibling" = "Hermano";
+
+"Son" = "Hijo";
+
+"Daughter" = "Hija";
+
+"Child" = "Niño";
+
+"Grandson" = "Nieto";
+
+"Granddaughter" = "Nieta";
+
+"Grandchild" = "Nieto";
+
+"Friend" = "Amigo";
+
+"Spouse" = "Esposo";
+
+"Partner" = "Compañero";
+
+"Boyfriend" = "Novio";
+
+"Girlfriend" = "Novia";
+
+"Aunt" = "Tía";
+
+"Uncle" = "Tío";
+
+"Cousin" = "Primo";
+
+"Nephew" = "Sobrino";
+
+"Niece" = "Sobrina";
+
+"None" = "Ninguno";
+
+/* Widgets */
+
+"Next:" = "Proximo:";
+
+"Glance at your upcoming or chosen occasions right from your home screen." = "Vea sus próximas ocasiones o occasiones elegidas directamente desde su pantalla de inicio.";
+
+"in" = "en";
+
