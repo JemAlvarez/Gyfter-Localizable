@@ -31,6 +31,8 @@
 
 "No" = "No";
 
+"For:" = "For:";
+
 /* No comment provided by engineer. */
 "Recurring: %@" = "Recurring: %@";
 
@@ -594,3 +596,11 @@
 "Niece" = "Niece";
 
 "None" = "None";
+
+/* Widgets */
+
+"Next:" = "Next:";
+
+"Glance at your upcoming or chosen occasions right from your home screen." = "Glance at your upcoming or chosen occasions right from your home screen.";
+
+"in" = "in";
