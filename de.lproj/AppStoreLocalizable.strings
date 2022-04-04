@@ -1,0 +1,59 @@
+/* AppStore */
+
+/* Promo */
+"Get Gyfting! :)" = "Get Gyfting! :)";
+
+/* Description */
+"
+
+Gyfter helps you remember all those special occasions you might forget about, but you know you shouldn't, like birthdays, anniversaries, or any other Gyfting occasion.
+Simply add your custom occasions, combined with the globally accepted Gyfting dates already predefined in the app and never forget to "Gyft" a loved one. Get notified well before the occasion so have time to plan the most epic Gyft ever.
+
+Features:
+* All your occasions synced across your all Apple devices
+* Select from a list of predefined globally known "Gyfting" dates
+* Get notified beforehand
+* Review all you Occasions in different viewing formats
+* Sort your occasions to easily find, edit, review them
+
+"
+=
+"
+
+Gyfter hilft dir dabei, dich an besondere Anlässe, die du nicht vergessen solltest, wie Geburt, - oder Jahrestage, zu erinnern.
+Du kannst einfach eigene Anlässe hinzufügen oder zwischen zahlreichen Anlässen aus der App auswählen. So vergisst du nie wieder jemanden zu beschenken. Damit du genug Zeit hast, um das beste "Gyft" aller Zeiten zu planen, wirst du vor dem anstehenden Ereignis benachrichtigt.
+
+Features:
+* Alle Anlässe über alle Apple Geräte synchronisiert
+* Wähle vordefinierte Anlässe aus
+* Werde im Vorfeld benachrichtigt
+* Betrachte deine Anlässe in verschiedenen Anzeigemöglichkeiten
+* Sortierte deine Anlässe um sie einfach zu finden, bearbeite und überprüfe sie
+
+";
+
+/* Keywords */
+"gift, occasion, reminder, birthday, anniversary, remember, forget, mother, wedding, day, event, noti" = "geschenk, anlass, erinnerung, geburtstag, jahrestag, erinnern, vergessen, mutter, vater, tag, event, benachrichtigung";
+
+/* Screenshot 1 */
+"Keep them synced across all your devices" = "Synchronisiert über all deine Geräte";
+
+"All your Occasions in one place" = "All deine Anlässe an einem Ort";
+/* Screenshot 2 */
+"Create your custom Occasions" = "Erstelle deine eigenen Anlässe";
+"Never forget to Gyft your loved ones again" = "Vergiss nie wieder deine Geliebten zu beschenken";
+/* Screenshot 3 */
+"Sort your occasions" = "Ordne deine Anlässe";
+"Easy to find, edit, and review" = "Einfach zu Finden, Bearbeiten und Überprüfen";
+
+/* Name */
+"Gyfter - Occasion Reminder" = "Gyfter - Anlass Erinnerungen";
+
+/* Subtitle */
+"Don't forget to Gyfting" = "Vergiss nicht zu schenken";
+
+/* IAP */
+/* Display Name */
+"Supporter" = "Unterstützer";
+/* Description */
+"Support me and get extra features :)" = "Unterstütze mich und erhalte Zugriff auf weitere Funktionen :)";
