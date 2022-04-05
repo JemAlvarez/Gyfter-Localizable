@@ -33,6 +33,8 @@
 
 "For:" = "Für:";
 
+"If your occasions are not being synced, add or edit an occasion on your phone." = "Wenn Ihre Anlässe nicht synchronisiert werden, fügen Sie einen Anlass auf Ihrem Telefon hinzu oder bearbeiten Sie ihn.";
+
 /* No comment provided by engineer. */
 "Recurring: %@" = "Wiederholend: %@";
 
@@ -282,7 +284,6 @@
 
 /* No comment provided by engineer. */
 "Keep all your Apple devices synced." = "Synchronisiere all deine Apple Geräte.";
-
 
 /* No comment provided by engineer. */
 "Keep track of your upcoming occasions from your home screen to reduce the chance of forgetting even more." = "Behalte den Überblick über anstehende Anlässe von deinem Startbildschirm.";
