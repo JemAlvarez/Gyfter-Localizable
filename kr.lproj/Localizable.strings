@@ -27,38 +27,38 @@
 /* No comment provided by engineer. */
 "%lld %@" = "%lld %@";
 
-"Yes" = "Yes";
+"Yes" = "네";
 
-"No" = "No";
+"No" = "아니요";
 
-"For:" = "For:";
+"For:" = "위하여:";
 
-"If your occasions are not being synced, add or edit an occasion on your phone." = "If your occasions are not being synced, add or edit an occasion on your phone.";
-
-/* No comment provided by engineer. */
-"Recurring: %@" = "Recurring: %@";
+"If your occasions are not being synced, add or edit an occasion on your phone." = "만약 기념일들이 동기화 되지 않은다면, 당신의 폰에서 기념일을 추가하거나 편집해 보세요.";
 
 /* No comment provided by engineer. */
-"Relationship: %@" = "Relationship: %@";
+"Recurring: %@" = "반복되는: %@";
 
 /* No comment provided by engineer. */
-"Remind %lld days before" = "Remind %lld days before";
+"Relationship: %@" = "관계: %@";
 
 /* No comment provided by engineer. */
-"Date: %@" = "Date: %@";
+"Remind %lld days before" = "%lld일 전에 알림";
+
+/* No comment provided by engineer. */
+"Date: %@" = "날: %@";
 
 /* No comment provided by engineer. */
 "In: %@" = "In: %@";
 
 /* No comment provided by engineer. */
-"Occasions" = "Occasions";
+"Occasions" = "기념일들";
 
 /* iOS+iPadOS */
 
-"Help translate" = "Help translate";
+"Help translate" = "변역을 도와주세요";
 
 /* Keep in mind the leading space */
-" days before" = " days before";
+" days before" = " 며칠전에";
 
 /* Occasion General Card 's */
 "%@'s" = "%@'s";
@@ -70,133 +70,133 @@
 "%@'s %@" = "%@'s %@";
 
 /* No comment provided by engineer. */
-"%lld %@ and %lld %@" = "%lld %@ and %lld %@";
+"%lld %@ and %lld %@" = "%lld %@ 그리고 %lld %@";
 
 /* No comment provided by engineer. */
-"%lld %@, %lld %@ and %lld %@" = "%lld %@, %lld %@ and %lld %@";
+"%lld %@, %lld %@ and %lld %@" = "%lld %@, %lld %@ 그리고 %lld %@";
 
 /* No comment provided by engineer. */
-"%lld day before" = "%lld day before";
+"%lld day before" = "%lld 일 전에";
 
 /* No comment provided by engineer. */
-"%lld days" = "%lld days";
+"%lld days" = "%lld 일";
 
 /* No comment provided by engineer. */
-"%lld days before" = "%lld days before";
+"%lld days before" = "%lld 일 전에";
 
 /* No comment provided by engineer. */
-"%lld Occasions" = "%lld Occasions";
+"%lld Occasions" = "%lld 기념일들";
 
 /* No comment provided by engineer. */
-"1 Occasion" = "1 Occasion";
+"1 Occasion" = "기념일";
 
 /* No comment provided by engineer. */
-"50 Occasion Limit" = "50 Occasion Limit";
+"50 Occasion Limit" = "50개의 기념일 제한";
 
 /* No comment provided by engineer. */
-"A-Z" = "A-Z";
+"A-Z" = "ㄱ-ㅎ";
 
 /* No comment provided by engineer. */
-"Accept" = "Accept";
+"Accept" = "수락하기";
 
 /* No comment provided by engineer. */
-"Add as many gifting occasions as you want (birthday, anniversary, mother's day, etc.)." = "Add as many gifting occasions as you want (birthday, anniversary, mother's day, etc.).";
+"Add as many gifting occasions as you want (birthday, anniversary, mother's day, etc.)." = "당신이 원하는 만큼 기념일들을 추가하세요 (생일, 기념일, 어버이날, 등.).";
 
 /* No comment provided by engineer. */
-"Add occasion" = "Add occasion";
+"Add occasion" = "기념일 추가하기";
 
 /* No comment provided by engineer. */
-"Alternate App Icon" = "Alternate App Icon";
+"Alternate App Icon" = "다른 앱 아이콘";
 
 /* No comment provided by engineer. */
-"Alternate icons" = "Alternate icons";
+"Alternate icons" = "다른 아이콘들";
 
 /* No comment provided by engineer. */
 "Animations - Jeffrey" = "Animations - Jeffrey";
 
 /* No comment provided by engineer. */
-"App Version: %@" = "App Version: %@";
+"App Version: %@" = "앱 버전: %@";
 
 /* No comment provided by engineer. */
-"Are you sure you want to delete this occasion?" = "Are you sure you want to delete this occasion?";
+"Are you sure you want to delete this occasion?" = "정말로 이 기념일을 지우시겠습니까?";
 
 /* No comment provided by engineer. */
-"Are you sure?" = "Are you sure?";
+"Are you sure?" = "확실합니까?";
 
 /* No comment provided by engineer. */
-"Avatar style" = "Avatar style";
+"Avatar style" = "아바타 스타일";
 
 /* No comment provided by engineer. */
 "Avatars - DiceBear" = "Avatars - DiceBear";
 
 /* No comment provided by engineer. */
-"Aww 😢😅" = "Aww 😢😅";
+"Aww 😢😅" = "아우우 😢😅";
 
 /* No comment provided by engineer. */
-"Background Color" = "Background Color";
+"Background Color" = "배경 색깔";
 
 /* No comment provided by engineer. */
-"Background Illustration" = "Background Illustration";
+"Background Illustration" = "백그라운드 일러스트레이션";
 
 /* No comment provided by engineer. */
-"Become a Supporter" = "Become a Supporter";
+"Become a Supporter" = "후원자가 되어보세요";
 
 /* No comment provided by engineer. */
-"Built with ❤️ by Jem on 🌎" = "Built with ❤️ by Jem on 🌎";
+"Built with ❤️ by Jem on 🌎" = "🌎 에 있는 Jem 의 ❤️ 으로 만들어 짐";
 
 /* No comment provided by engineer. */
-"By becoming a 'Supporter', you support me and also get these extra features :)" = "By becoming a 'Supporter', you support me and also get these extra features :)";
+"By becoming a 'Supporter', you support me and also get these extra features :)" = "후원자가 됨으로서, 저를 지지해주며, 추가의 기능들을 사용하세요 :)";
 
 /* No comment provided by engineer. */
-"Can't edit global Occasions" = "Can't edit global Occasions";
+"Can't edit global Occasions" = "글로벌 기념일은 편집할 수 없습니다.";
 
 /* No comment provided by engineer. */
-"Cancel" = "Cancel";
+"Cancel" = "취소";
 
 /* No comment provided by engineer. */
-"Card's background color" = "Card's background color";
+"Card's background color" = "카드의 백그라운드 색깔";
 
 /* No comment provided by engineer. */
-"Change card background color?" = "Change card background color?";
+"Change card background color?" = "카드의 백그라운드 색깔을 변경하기겠습니까?";
 
 /* No comment provided by engineer. */
-"Christmas" = "Christmas";
+"Christmas" = "크리스마스";
 
 /* No comment provided by engineer. */
-"Christmas Alternate" = "Christmas Alternate";
+"Christmas Alternate" = "크리스마스 대체일";
 
 /* No comment provided by engineer. */
-"Credits" = "Credits";
+"Credits" = "크레딧";
 
 /* No comment provided by engineer. */
-"Custom Card Colors" = "Custom Card Colors";
+"Custom Card Colors" = "커스텀 카드 색상들";
 
 /* No comment provided by engineer. */
-"Custom Card Illustrations" = "Custom Card Illustrations";
+"Custom Card Illustrations" = "커스텀 카드 일러스트레이션";
 
 /* No comment provided by engineer. */
-"Danger" = "Danger";
+"Danger" = "위험";
 
 /* No comment provided by engineer. */
-"Dark" = "Dark";
+"Dark" = "다크";
 
 /* No comment provided by engineer. */
-"Dark mode" = "Dark mode";
+"Dark mode" = "다크 모드";
 
 /* No comment provided by engineer. */
 "Date" = "Date";
 
 /* No comment provided by engineer. */
-"day" = "day";
+"day" = "일";
 
 /* No comment provided by engineer. */
-"days" = "days";
+"days" = "일들";
 
 /* No comment provided by engineer. */
 "Days to remind ahead" = "Days to remind ahead";
 
 /* No comment provided by engineer. */
-"Default" = "Default";
+"Default" = "기본 ";
 
 /* No comment provided by engineer. */
 "Default Alternate" = "Default Alternate";
