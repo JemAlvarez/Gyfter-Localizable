@@ -277,94 +277,94 @@
 "in %@" = "in %@";
 
 /* No comment provided by engineer. */
-"Include description?" = "Include description?";
+"Include description?" = "자세한 사하을 추가하실래요?";
 
 /* No comment provided by engineer. */
-"Include person name?" = "Include person name?";
+"Include person name?" = "상대방의 이름을 추가하실래요?";
 
 /* No comment provided by engineer. */
-"Keep all your Apple devices synced." = "Keep all your Apple devices synced.";
+"Keep all your Apple devices synced." = "당신의 모든 애플 기기들이 동기화 되게 유지하세요.";
 
 /* No comment provided by engineer. */
-"Keep track of your upcoming occasions from your home screen to reduce the chance of forgetting even more." = "Keep track of your upcoming occasions from your home screen to reduce the chance of forgetting even more.";
+"Keep track of your upcoming occasions from your home screen to reduce the chance of forgetting even more." = "까먹는 가능성을 줄이기 위해 장신의 홈 스크린에서 다가오능 기념일들을 확인하세요.";
 
 /* No comment provided by engineer. */
-"Language" = "Language";
+"Language" = "언어";
 
 /* No comment provided by engineer. */
-"Languages" = "Languages";
+"Languages" = "언어들";
 
 /* No comment provided by engineer. */
-"Light" = "Light";
+"Light" = "라이트";
 
 /* No comment provided by engineer. */
-"Link copied to clipboard" = "Link copied to clipboard";
+"Link copied to clipboard" = "링크가 클립보드에 복사됨";
 
 /* No comment provided by engineer. */
-"Look at your upcoming occasions in a timeline so you can keep track of what is nearing." = "Look at your upcoming occasions in a timeline so you can keep track of what is nearing.";
+"Look at your upcoming occasions in a timeline so you can keep track of what is nearing." = "타임라인에 다가오는 기념일들을 봄으로서 주변에 무슨 일이 이러나고 있는지 계속 확인하세요.";
 
 /* No comment provided by engineer. */
-"Looks like you haven't made a purchase" = "Looks like you haven't made a purchase";
+"Looks like you haven't made a purchase" = "구매를 하지 않으신것 같군요";
 
 /* No comment provided by engineer. */
-"month" = "month";
+"month" = "달";
 
 /* No comment provided by engineer. */
-"months" = "months";
+"months" = "달들";
 
 /* No comment provided by engineer. */
-"Next date: %@" = "Next date: %@";
+"Next date: %@" = "다음 날짜: %@";
 
 /* No comment provided by engineer. */
-"No items to restore" = "No items to restore";
+"No items to restore" = "복구할 데이터가 없습니다.";
 
 /* No comment provided by engineer. */
-"Notifications" = "Notifications";
+"Notifications" = "알림";
 
 /* No comment provided by engineer. */
 "Notifications alert you when an Occasion is **\"Added/Updated/Deleted\"** on another one of your devices so you can **\"Add/Update/Delete\"** the notifications on the current device." = "Notifications alert you when an Occasion is **\"Added/Updated/Deleted\"** on another one of your devices so you can **\"Add/Update/Delete\"** the notifications on the current device.";
 
 /* No comment provided by engineer. */
-"Occasion" = "Occasion";
+"Occasion" = "기념일";
 
 /* No comment provided by engineer. */
-"Occasion Added" = "Occasion Added";
+"Occasion Added" = "기념일일 추가됨";
 
 /* No comment provided by engineer. */
-"Occasion Deleted" = "Occasion Deleted";
+"Occasion Deleted" = "기념일 삭제됨";
 
 /* No comment provided by engineer. */
-"Occasion Updated" = "Occasion Updated";
+"Occasion Updated" = "기념일 업데이트됨";
 
 /* No comment provided by engineer. */
-"One" = "One";
+"One" = "일";
 
 /* No comment provided by engineer. */
-"Person" = "Person";
+"Person" = "사람";
 
 /* No comment provided by engineer. */
-"Pick a background" = "Pick a background";
+"Pick a background" = "백그라운드 화면을 고르세요";
 
 /* No comment provided by engineer. */
 "Pick what days you want to be reminded about from globally recognized Gyfting dates." = "Pick what days you want to be reminded about from globally recognized Gyfting dates.";
 
 /* No comment provided by engineer. */
-"Pink" = "Pink";
+"Pink" = "핑크";
 
 /* No comment provided by engineer. */
-"Pink Alternate" = "Pink Alternate";
+"Pink Alternate" = "핑크 대체";
 
 /* No comment provided by engineer. */
-"Preview" = "Preview";
+"Preview" = "미리보기";
 
 /* No comment provided by engineer. */
-"Rate in App Store" = "Rate in App Store";
+"Rate in App Store" = "앱스토에서 평가하기";
 
 /* No comment provided by engineer. */
-"Recurring" = "Recurring";
+"Recurring" = "반복되는";
 
 /* No comment provided by engineer. */
-"Remember Gyfting Seasons" = "Remember Gyfting Seasons";
+"Remember Gyfting Seasons" = "선물하기 시즌을 기억하세요";
 
 /* Keep in mind the trailing space */
 "Remind " = "Remind ";
@@ -409,16 +409,16 @@
 "Set notifications prior to the occasion so you have time to plan the perfect Gyft." = "Set notifications prior to the occasion so you have time to plan the perfect Gyft.";
 
 /* No comment provided by engineer. */
-"Settings" = "Settings";
+"Settings" = "설정";
 
 /* No comment provided by engineer. */
-"Share" = "Share";
+"Share" = "공유";
 
 /* No comment provided by engineer. */
-"Share with friends" = "Share with friends";
+"Share with friends" = "친구와 함께 공유하기";
 
 /* No comment provided by engineer. */
-"Spanish" = "Spanish";
+"Spanish" = "스";
 
 /* No comment provided by engineer. */
 "Start scheduling your loved ones' Gyfts." = "Start scheduling your loved ones' Gyfts.";
@@ -448,19 +448,19 @@
 "Timeline" = "Timeline";
 
 /* No comment provided by engineer. */
-"Title" = "Title";
+"Title" = "제목";
 
 /* No comment provided by engineer. */
-"tomorrow" = "tomorrow";
+"tomorrow" = "내일";
 
 /* No comment provided by engineer. */
-"Twitter" = "Twitter";
+"Twitter" = "트위터";
 
 /* No comment provided by engineer. */
-"Two" = "Two";
+"Two" = "두개";
 
 /* No comment provided by engineer. */
-"Unable to edit" = "Unable to edit";
+"Unable to edit" = "편집을 할수 없음";
 
 /* No comment provided by engineer. */
 "Unscheduled occasions" = "Unscheduled occasions";
@@ -469,10 +469,10 @@
 "Warning! This action cannot be undone. This will reset all the settings in the app, and reset all saved occasions." = "Warning! This action cannot be undone. This will reset all the settings in the app, and reset all saved occasions.";
 
 /* No comment provided by engineer. */
-"Widgets" = "Widgets";
+"Widgets" = "위젯";
 
 /* No comment provided by engineer. */
-"year" = "year";
+"year" = "연";
 
 /* No comment provided by engineer. */
 "years" = "years";
@@ -513,25 +513,25 @@
 
 /* Occasion Types */
 
-"Birthday" = "Birthday";
+"Birthday" = "생일";
 
-"Anniversary" = "Anniversary";
+"Anniversary" = "기념일";
 
-"Wedding Day" = "Wedding Day";
+"Wedding Day" = "결혼 날";
 
 "Housewarming" = "Housewarming";
 
 "Baby Shower" = "Baby Shower";
 
-"Graduation" = "Graduation";
+"Graduation" = "졸업식";
 
-"Christmas" = "Christmas";
+"Christmas" = "크리스마스";
 
-"Valentine's" = "Valentine's";
+"Valentine's" = "발레타인데이";
 
 "St. Patrick's Day" = "St. Patrick's Day";
 
-"Fourth Of July" = "Fourth Of July";
+"Fourth Of July" = "미국의 독립 ";
 
 "Easter" = "부화절";
 
