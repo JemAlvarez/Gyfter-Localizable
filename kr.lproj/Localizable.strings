@@ -199,58 +199,58 @@
 "Default" = "기본 ";
 
 /* No comment provided by engineer. */
-"Default Alternate" = "Default Alternate";
+"Default Alternate" = "대체 기본 설정";
 
 /* No comment provided by engineer. */
-"DELETE" = "DELETE";
+"DELETE" = "삭제";
 
 /* No comment provided by engineer. */
-"Description" = "Description";
+"Description" = "설명";
 
 /* No comment provided by engineer. */
-"Design" = "Design";
+"Design" = "디자인";
 
 /* No comment provided by engineer. */
-"Disabling or enabling notifications is shared across all of your devices" = "Disabling or enabling notifications is shared across all of your devices";
+"Disabling or enabling notifications is shared across all of your devices" = "알림 활성화 및 비활성화는 모든 기기가 영향을 받습니다.";
 
 /* No comment provided by engineer. */
-"Don't forget to gift your loved ones on any special occasion." = "Don't forget to gift your loved ones on any special occasion.";
+"Don't forget to gift your loved ones on any special occasion." = "특별한 기념일에 사랑하는 이에 선물하는 것을 잊지 마세요.";
 
 /* No comment provided by engineer. */
-"Done!" = "Done!";
+"Done!" = "완료!";
 
 /* No comment provided by engineer. */
-"Email" = "Email";
+"Email" = "이메일";
 
 /* No comment provided by engineer. */
-"English" = "English";
+"English" = "영어";
 
 /* No comment provided by engineer. */
-"Enter a person's name" = "Enter a person's name";
+"Enter a person's name" = "사람의 이름을 입력하세요";
 
 /* No comment provided by engineer. */
-"for Supporting me" = "for Supporting me";
+"for Supporting me" = "절 후훤해 주셔서";
 
 /* No comment provided by engineer. */
-"Fourth of July" = "Fourth of July";
+"Fourth of July" = "미국의 독립기념일";
 
 /* No comment provided by engineer. */
-"Fourth of July Alternate" = "Fourth of July Alternate";
+"Fourth of July Alternate" = "미국의 독립기념일 대쳇날";
 
 /* No comment provided by engineer. */
-"General" = "General";
+"General" = "일반";
 
 /* No comment provided by engineer. */
-"Get Gyfting!" = "Get Gyfting!";
+"Get Gyfting!" = "선물을 하세요!";
 
 /* No comment provided by engineer. */
-"Get in touch" = "Get in touch";
+"Get in touch" = "연략을 유지하세요";
 
 /* No comment provided by engineer. */
-"Get Notified" = "Get Notified";
+"Get Notified" = "알림 받기";
 
 /* No comment provided by engineer. */
-"Global dates" = "Global dates";
+"Global dates" = "글로벌 날짜";
 
 /* No comment provided by engineer. */
 "Go Gyft Love" = "Go Gyft Love";
@@ -259,7 +259,7 @@
 "Go to setting to edit" = "Go to setting to edit";
 
 /* No comment provided by engineer. */
-"Go to settings" = "Go to settings";
+"Go to settings" = "설정 ";
 
 /* No comment provided by engineer. */
 "Graphics - unDraw" = "Graphics - unDraw";
@@ -533,76 +533,76 @@
 
 "Fourth Of July" = "Fourth Of July";
 
-"Easter" = "Easter";
+"Easter" = "부화절";
 
-"Mother's Day" = "Mother's Day";
+"Mother's Day" = "어버이날";
 
 "Father's Day" = "Father's Day";
 
 "Chinese New Year" = "Chinese New Year";
 
-"Memorial Day" = "Memorial Day";
+"Memorial Day" = "메모리얼 데이";
 
-"Thanksgiving" = "Thanksgiving";
+"Thanksgiving" = "추수감사절";
 
 /* Relationships Types */
 
-"Mother" = "Mother";
+"Mother" = "엄마";
 
-"Father" = "Father";
+"Father" = "아빠";
 
-"Parent" = "Parent";
+"Parent" = "부모님";
 
-"Grandfather" = "Grandfather";
+"Grandfather" = "할아버지";
 
-"Grandmother" = "Grandmother";
+"Grandmother" = "할머니";
 
-"Grandparent" = "Grandparent";
+"Grandparent" = "할아버지, 할머니";
 
-"Brother" = "Brother";
+"Brother" = "형";
 
-"Sister" = "Sister";
+"Sister" = "누나";
 
-"Sibling" = "Sibling";
+"Sibling" = "형제자매";
 
-"Son" = "Son";
+"Son" = "아들";
 
-"Daughter" = "Daughter";
+"Daughter" = "딸";
 
-"Child" = "Child";
+"Child" = "어린이";
 
-"Grandson" = "Grandson";
+"Grandson" = "손자";
 
-"Granddaughter" = "Granddaughter";
+"Granddaughter" = "손녀";
 
-"Grandchild" = "Grandchild";
+"Grandchild" = "손자";
 
-"Friend" = "Friend";
+"Friend" = "친구";
 
-"Spouse" = "Spouse";
+"Spouse" = "배우자";
 
-"Partner" = "Partner";
+"Partner" = "파트너";
 
-"Boyfriend" = "Boyfriend";
+"Boyfriend" = "남자친구";
 
-"Girlfriend" = "Girlfriend";
+"Girlfriend" = "여자친구";
 
-"Aunt" = "Aunt";
+"Aunt" = "고모";
 
-"Uncle" = "Uncle";
+"Uncle" = "삼촌";
 
-"Cousin" = "Cousin";
+"Cousin" = "사촌";
 
-"Nephew" = "Nephew";
+"Nephew" = "조카";
 
-"Niece" = "Niece";
+"Niece" = "이모";
 
-"None" = "None";
+"None" = "없음";
 
 /* Widgets */
 
-"Next:" = "Next:";
+"Next:" = "다음:";
 
 "Glance at your upcoming or chosen occasions right from your home screen." = "Glance at your upcoming or chosen occasions right from your home screen.";
 
-"in" = "in";
+"in" = "안";
