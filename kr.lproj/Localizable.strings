@@ -51,14 +51,14 @@
 "In: %@" = "In: %@";
 
 /* No comment provided by engineer. */
-"Occasions" = "기념일들";
+"Occasions" = "기념일";
 
 /* iOS+iPadOS */
 
 "Help translate" = "변역을 도와주세요";
 
 /* Keep in mind the leading space */
-" days before" = " 며칠전에";
+" days before" = " 일 전에";
 
 /* Occasion General Card 's */
 "%@'s" = "%@'s";
@@ -85,7 +85,7 @@
 "%lld days before" = "%lld 일 전에";
 
 /* No comment provided by engineer. */
-"%lld Occasions" = "%lld 기념일들";
+"%lld Occasions" = "총 %lld 개의 기념일";
 
 /* No comment provided by engineer. */
 "1 Occasion" = "기념일";
@@ -97,13 +97,13 @@
 "A-Z" = "ㄱ-ㅎ";
 
 /* No comment provided by engineer. */
-"Accept" = "수락하기";
+"Accept" = "수락";
 
 /* No comment provided by engineer. */
 "Add as many gifting occasions as you want (birthday, anniversary, mother's day, etc.)." = "당신이 원하는 만큼 기념일들을 추가하세요 (생일, 기념일, 어버이날, 등.).";
 
 /* No comment provided by engineer. */
-"Add occasion" = "기념일 추가하기";
+"Add occasion" = "기념일 추가";
 
 /* No comment provided by engineer. */
 "Alternate App Icon" = "다른 앱 아이콘";
@@ -121,7 +121,7 @@
 "Are you sure you want to delete this occasion?" = "정말로 이 기념일을 지우시겠습니까?";
 
 /* No comment provided by engineer. */
-"Are you sure?" = "확실합니까?";
+"Are you sure?" = "확실해요?";
 
 /* No comment provided by engineer. */
 "Avatar style" = "아바타 스타일";
@@ -130,7 +130,7 @@
 "Avatars - DiceBear" = "Avatars - DiceBear";
 
 /* No comment provided by engineer. */
-"Aww 😢😅" = "아우우 😢😅";
+"Aww 😢😅" = "ㅜㅜ 😢😅";
 
 /* No comment provided by engineer. */
 "Background Color" = "배경 색깔";
@@ -145,10 +145,10 @@
 "Built with ❤️ by Jem on 🌎" = "🌎 에 있는 Jem 의 ❤️ 으로 만들어 짐";
 
 /* No comment provided by engineer. */
-"By becoming a 'Supporter', you support me and also get these extra features :)" = "후원자가 됨으로서, 저를 지지해주며, 추가의 기능들을 사용하세요 :)";
+"By becoming a 'Supporter', you support me and also get these extra features :)" = "후원자가 됨으로서, 저를 지원해주고 추가의 기능들을 사용하세요 :)";
 
 /* No comment provided by engineer. */
-"Can't edit global Occasions" = "글로벌 기념일은 편집할 수 없습니다.";
+"Can't edit global Occasions" = "글로벌 기념일들은 수정할 수 없습니다.";
 
 /* No comment provided by engineer. */
 "Cancel" = "취소";
@@ -157,13 +157,13 @@
 "Card's background color" = "카드의 백그라운드 색깔";
 
 /* No comment provided by engineer. */
-"Change card background color?" = "카드의 백그라운드 색깔을 변경하기겠습니까?";
+"Change card background color?" = "카드의 백그라운드 색깔을 변경하시기겠습니까?";
 
 /* No comment provided by engineer. */
 "Christmas" = "크리스마스";
 
 /* No comment provided by engineer. */
-"Christmas Alternate" = "크리스마스 대체일";
+"Christmas Alternate" = "크리스마스 대체";
 
 /* No comment provided by engineer. */
 "Credits" = "크레딧";
@@ -184,7 +184,7 @@
 "Dark mode" = "다크 모드";
 
 /* No comment provided by engineer. */
-"Date" = "Date";
+"Date" = "날짜";
 
 /* No comment provided by engineer. */
 "day" = "일";
@@ -193,13 +193,13 @@
 "days" = "일들";
 
 /* No comment provided by engineer. */
-"Days to remind ahead" = "Days to remind ahead";
+"Days to remind ahead" = "미리 알림 기간(일)";
 
 /* No comment provided by engineer. */
-"Default" = "기본 ";
+"Default" = "기본";
 
 /* No comment provided by engineer. */
-"Default Alternate" = "대체 기본 설정";
+"Default Alternate" = "기본 대체";
 
 /* No comment provided by engineer. */
 "DELETE" = "삭제";
@@ -211,7 +211,7 @@
 "Design" = "디자인";
 
 /* No comment provided by engineer. */
-"Disabling or enabling notifications is shared across all of your devices" = "알림 활성화 및 비활성화는 모든 기기가 영향을 받습니다.";
+"Disabling or enabling notifications is shared across all of your devices" = "알림 활성화 및 비활성화는 모든 기기가 동일하게 영향을 받습니다.";
 
 /* No comment provided by engineer. */
 "Don't forget to gift your loved ones on any special occasion." = "특별한 기념일에 사랑하는 이에 선물하는 것을 잊지 마세요.";
@@ -235,7 +235,7 @@
 "Fourth of July" = "미국의 독립기념일";
 
 /* No comment provided by engineer. */
-"Fourth of July Alternate" = "미국의 독립기념일 대쳇날";
+"Fourth of July Alternate" = "미국의 독립기념일 대체";
 
 /* No comment provided by engineer. */
 "General" = "일반";
@@ -265,10 +265,10 @@
 "Graphics - unDraw" = "Graphics - unDraw";
 
 /* No comment provided by engineer. */
-"Happening" = "Happening";
+"Happening" = "해프닝";
 
 /* No comment provided by engineer. */
-"Illustrations" = "Illustrations";
+"Illustrations" = "일러스트레이션";
 
 /* No comment provided by engineer. */
 "Illustrations - Maria" = "Illustrations - Maria";
@@ -277,7 +277,7 @@
 "in %@" = "in %@";
 
 /* No comment provided by engineer. */
-"Include description?" = "자세한 사하을 추가하실래요?";
+"Include description?" = "자세한 사항을 추가하실래요?";
 
 /* No comment provided by engineer. */
 "Include person name?" = "상대방의 이름을 추가하실래요?";
