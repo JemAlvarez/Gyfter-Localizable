@@ -460,7 +460,7 @@
 "Two" = "두개";
 
 /* No comment provided by engineer. */
-"Unable to edit" = "편집을 할수 없음";
+"Unable to edit" = "수정을 할수 없음";
 
 /* No comment provided by engineer. */
 "Unscheduled occasions" = "Unscheduled occasions";
@@ -472,19 +472,19 @@
 "Widgets" = "위젯";
 
 /* No comment provided by engineer. */
-"year" = "연";
+"year" = "해";
 
 /* No comment provided by engineer. */
-"years" = "years";
+"years" = "해";
 
 /* No comment provided by engineer. */
-"You can only have 50 occasions saved at any one time. Delete any unimportant ones if you wish to add more." = "You can only have 50 occasions saved at any one time. Delete any unimportant ones if you wish to add more.";
+"You can only have 50 occasions saved at any one time. Delete any unimportant ones if you wish to add more." = "최대 50개의 기념일만 저장할 수 있습니다. 만약 새로운 기념일을 추가하고 싶으면, 다른 중요하지 않은 기념일들을 삭제하세요";
 
 /* No comment provided by engineer. */
-"Your reminders were successfully synced on this device!" = "Your reminders were successfully synced on this device!";
+"Your reminders were successfully synced on this device!" = "당신의 알림들이 성공적으로 다른 기기들과 동기화가 되었습니다.";
 
 /* No comment provided by engineer. */
-"Z-A" = "Z-A";
+"Z-A" = "ㅎ-ㄱ";
 
 /* Notifications */
 
@@ -493,23 +493,23 @@
 /* Keep in mind the trailing space */
 "'s " = "'s ";
 
-"Reschedule reminder for" = "Reschedule reminder for";
+"Reschedule reminder for" = "알림 변경";
 
-"Open the app to ensure you are reminded next year about" = "Open the app to ensure you are reminded next year about";
+"Open the app to ensure you are reminded next year about" = "앱을 실행시켜 다음 해에도 알림이 설정되어 있는지 확인하세요";
 
-"Schedule Notification" = "Schedule Notification";
+"Schedule Notification" = "알림 설정하기";
 
-"Update Notification" = "Update Notification";
+"Update Notification" = "알림 업데이트";
 
-"Remove Notification" = "Remove Notification";
+"Remove Notification" = "알림 지우기";
 
-"Occasion deleted" = "Occasion deleted";
+"Occasion deleted" = "기념일이 삭제됨";
 
-"Occasion updated" = "Occasion updated";
+"Occasion updated" = "기념일이 수정됨";
 
-"Occasion added" = "Occasion added";
+"Occasion added" = "기념일이 추가됨";
 
-"Open the app to ensure reminders sync on this device too!" = "Open the app to ensure reminders sync on this device too!";
+"Open the app to ensure reminders sync on this device too!" = "앱을 실행시켜 알림이 이 기기에 동기화 되었는지 확인하세요";
 
 /* Occasion Types */
 
@@ -603,6 +603,6 @@
 
 "Next:" = "다음:";
 
-"Glance at your upcoming or chosen occasions right from your home screen." = "Glance at your upcoming or chosen occasions right from your home screen.";
+"Glance at your upcoming or chosen occasions right from your home screen." = "다가오거나 선택된 기념일들을 당신의 홈 스크린에서 훑으세요.";
 
 "in" = "안";
