@@ -16,26 +16,26 @@
 * 행사를 정렬하여 쉽게 찾고, 편집하고, 검토하십시오.
 
 /* Keywords */
-"gift, occasion, reminder, birthday, anniversary, remember, forget, mother, wedding, day, event, noti" = "gift, occasion, reminder, birthday, anniversary, remember, forget, mother, wedding, day, event, noti";
+"선물, 행사, 알림, 생일, 기념일, 기억하다, 잊어버리다, 어머니, 결혼식, 일, 이벤트, 노티" = "선물, 기회, 미리 알림, 생일, 기념일, 기억하다, 잊어버리다, 어머니, 결혼식, 일, 이벤트, 노티 ";
 
 /* Screenshot 1 */
-"All your Occasions in one place" = "All your Occasions in one place";
-"Keep them synced across all your devices" = "Keep them synced across all your devices";
+"All your Occasions in one place" = "당신의 모든 기념일을 한 곳에";
+"Keep them synced across all your devices" = "기념일들을 모든 기기에 동기화 하세요";
 /* Screenshot 2 */
-"Create your custom Occasions" = "Create your custom Occasions";
-"Never forget to Gyft your loved ones again" = "Never forget to Gyft your loved ones again";
+"Create your custom Occasions" = "당신의 커스텀 기념일을 만들세요";
+"Never forget to Gyft your loved ones again" = "사랑하는이에게 선물하기를 절대 잊지마세요";
 /* Screenshot 3 */
-"Sort your occasions" = "Sort your occasions";
-"Easy to find, edit, and review" = "Easy to find, edit, and review";
+"Sort your occasions" = "기념일들을 정렬하세요";
+"Easy to find, edit, and review" = "찾기, 편집, 리뷰하기 쉬움";
 
 /* Name */
-"Gyfter - Occasion Reminder" = "Gyfter - Occasion Reminder";
+"Gyfter - Occasion Reminder" = "Gyfter - 기념일 알림";
 
 /* Subtitle */
-"Don't forget to Gyfting" = "Don't forget to Gyfting";
+"Don't forget to Gyfting" = "선물하는 것을 잊지마세요";
 
 /* IAP */
 /* Display Name */
-"Supporter" = "Supporter";
+"Supporter" = "후원자";
 /* Description */
-"Support me and get extra features :)" = "Support me and get extra features :)";
+"Support me and get extra features :)" = "절 후원해주시고, 추가의 기능들을 받아가세요 :)";
