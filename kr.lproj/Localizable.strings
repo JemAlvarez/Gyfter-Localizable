@@ -51,7 +51,7 @@
 "In: %@" = "In: %@";
 
 /* No comment provided by engineer. */
-"Occasions" = "기념일";
+"Occasions" = "기념일들”;
 
 /* iOS+iPadOS */
 
@@ -130,7 +130,7 @@
 "Avatars - DiceBear" = “아바타 - DiceBear";
 
 /* No comment provided by engineer. */
-"Aww 😢😅" = "ㅜㅜ 😢😅";
+"Aww 😢😅" = “ㅠㅠ 😢😅";
 
 /* No comment provided by engineer. */
 "Background Color" = "배경 색깔";
@@ -361,7 +361,7 @@
 "Rate in App Store" = "앱스토에서 평가하기";
 
 /* No comment provided by engineer. */
-"Recurring" = "반복되는";
+"Recurring" = “주기”;
 
 /* No comment provided by engineer. */
 "Remember Gyfting Seasons" = "선물하기 시즌을 기억하세요";
@@ -488,12 +488,12 @@
 
 /* Notifications */
 
-"days until" = “당일 날 까지 일 수”;
+"days until" = “당일 날 까지”;
 
 /* Keep in mind the trailing space */
 "'s " = "'s ";
 
-"Reschedule reminder for" = "알림 변경";
+"Reschedule reminder for" = "알림 변경 하기”;
 
 "Open the app to ensure you are reminded next year about" = "앱을 실행시켜 다음 해에도 알림이 설정되어 있는지 확인하세요";
 
@@ -519,9 +519,9 @@
 
 "Wedding Day" = "결혼 날";
 
-"Housewarming" = "Housewarming";
+"Housewarming" = “집들이”;
 
-"Baby Shower" = "Baby Shower";
+"Baby Shower" = “베이비 샤워”;
 
 "Graduation" = "졸업식";
 
@@ -529,9 +529,9 @@
 
 "Valentine's" = "발레타인데이";
 
-"St. Patrick's Day" = "St. Patrick's Day";
+"St. Patrick's Day" = "성 패트릭의 날";
 
-"Fourth Of July" = "미국의 독립 ";
+"Fourth Of July" = "미국의 독립기념일 ";
 
 "Easter" = "부화절";
 
@@ -603,6 +603,6 @@
 
 "Next:" = "다음:";
 
-"Glance at your upcoming or chosen occasions right from your home screen." = "다가오거나 선택된 기념일들을 당신의 홈 스크린에서 훑으세요.";
+"Glance at your upcoming or chosen occasions right from your home screen." = "다가오거나 선택된 기념일들을 당신의 홈 스크린에서 훑어보세요.";
 
 "in" = "안";
