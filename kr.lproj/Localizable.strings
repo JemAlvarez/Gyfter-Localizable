@@ -118,7 +118,7 @@
 "App Version: %@" = "앱 버전: %@";
 
 /* No comment provided by engineer. */
-"Are you sure you want to delete this occasion?" = "정말로 이 기념일을 지우시겠습니까?";
+"Are you sure you want to delete this occasion?" = "정말로 이 기념일을 삭제하시겠습니까?";
 
 /* No comment provided by engineer. */
 "Are you sure?" = "확실한가요?";
@@ -145,10 +145,10 @@
 "Built with ❤️ by Jem on 🌎" = "🌎 에 있는 Jem 의 ❤️ 으로 만들어 짐";
 
 /* No comment provided by engineer. */
-"By becoming a 'Supporter', you support me and also get these extra features :)" = "후원자가 됨으로서, 저를 지원해주고 추가의 기능들을 사용해보세요 :)";
+"By becoming a 'Supporter', you support me and also get these extra features :)" = "후원자가 됨으로써, 저를 지원해 주고 추가의 기능들을 사용해 보세요 :)";
 
 /* No comment provided by engineer. */
-"Can't edit global Occasions" = "글로벌 기념일들은 수정할 수 없습니다.";
+"Can't edit global Occasions" = "글로벌 기념일은 수정할 수 없습니다.";
 
 /* No comment provided by engineer. */
 "Cancel" = "취소";
@@ -259,7 +259,7 @@
 "Go to setting to edit" = “설정으로 들어가 편집하기;
 
 /* No comment provided by engineer. */
-"Go to settings" = "설정 바로가기 ";
+"Go to settings" = "설정 바로가기";
 
 /* No comment provided by engineer. */
 "Graphics - unDraw" = “그래픽 - unDraw";
