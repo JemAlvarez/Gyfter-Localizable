@@ -42,7 +42,7 @@
 "Relationship: %@" = "관계: %@";
 
 /* No comment provided by engineer. */
-"Remind %lld days before" = "%lld일 전에 알림";
+"Remind %lld days before" = "%lld일 전에 알림 받기";
 
 /* No comment provided by engineer. */
 "Date: %@" = "날: %@";
@@ -100,7 +100,7 @@
 "Accept" = "수락";
 
 /* No comment provided by engineer. */
-"Add as many gifting occasions as you want (birthday, anniversary, mother's day, etc.)." = "당신이 원하는 만큼 기념일들을 추가하세요 (생일, 기념일, 어버이날, 등.).";
+"Add as many gifting occasions as you want (birthday, anniversary, mother's day, etc.)." = "당신이 원하는 만큼 선물주는 기념일들을 추가하세요 (생일, 기념일, 어버이날, 등.).";
 
 /* No comment provided by engineer. */
 "Add occasion" = "기념일 추가";
@@ -193,7 +193,7 @@
 "days" = "일들";
 
 /* No comment provided by engineer. */
-"Days to remind ahead" = "미리 알림 기간(일)";
+"Days to remind ahead" = "알림 ";
 
 /* No comment provided by engineer. */
 "Default" = "기본";
@@ -286,7 +286,7 @@
 "Keep all your Apple devices synced." = "당신의 모든 애플 기기들의 동기화를 유지하세요.";
 
 /* No comment provided by engineer. */
-"Keep track of your upcoming occasions from your home screen to reduce the chance of forgetting even more." = “잊어먹을 수 있는 가능성을 줄이기 위해 장신의 홈 스크린에서 다가오는 기념일들을 확인하세요.";
+"Keep track of your upcoming occasions from your home screen to reduce the chance of forgetting even more." = “잊어먹을 수 있는 가능성을 줄이기 위해 당신의 홈 스크린에서 다가오는 기념일들을 확인하세요.";
 
 /* No comment provided by engineer. */
 "Language" = "언어";
@@ -319,7 +319,7 @@
 "No items to restore" = "복구할 데이터가 없습니다.";
 
 /* No comment provided by engineer. */
-"Notifications" = "알림";
+"Notifications" = "알림들";
 
 /* No comment provided by engineer. */
 "Notifications alert you when an Occasion is **\"Added/Updated/Deleted\"** on another one of your devices so you can **\"Add/Update/Delete\"** the notifications on the current device." = "알림은 만약 어떤 기념일이 다른 장치에서 **\"추가/업데이트/삭제\"**가 되면 경고를 표함으로서 당신이 현재 장치에서 **\"추가/업데이트/삭제\”** 를할 수 있습니다.";
@@ -328,13 +328,13 @@
 "Occasion" = "기념일";
 
 /* No comment provided by engineer. */
-"Occasion Added" = "기념일일 추가됨";
+"Occasion Added" = "기념일이 추가됨";
 
 /* No comment provided by engineer. */
-"Occasion Deleted" = "기념일 삭제됨";
+"Occasion Deleted" = "기념일이 삭제됨";
 
 /* No comment provided by engineer. */
-"Occasion Updated" = "기념일 업데이트됨";
+"Occasion Updated" = "기념일이 업데이트됨";
 
 /* No comment provided by engineer. */
 "One" = "일";
@@ -346,7 +346,7 @@
 "Pick a background" = "백그라운드 화면을 고르세요";
 
 /* No comment provided by engineer. */
-"Pick what days you want to be reminded about from globally recognized Gyfting dates." = “글로볼 기념일들 중에서 어떤 날들에 대해 알림을 받고 싶은지 선택하세요.”;
+"Pick what days you want to be reminded about from globally recognized Gyfting dates." = “글로벌 기념일들 중에서 어떤 날들에 대해 알림을 받고 싶은지 선택하세요.”;
 
 /* No comment provided by engineer. */
 "Pink" = "핑크";
