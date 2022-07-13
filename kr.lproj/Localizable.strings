@@ -121,7 +121,7 @@
 "Are you sure you want to delete this occasion?" = "정말로 이 기념일을 지우시겠습니까?";
 
 /* No comment provided by engineer. */
-"Are you sure?" = "확실?";
+"Are you sure?" = "확실한가요?";
 
 /* No comment provided by engineer. */
 "Avatar style" = "아바타 스타일";
@@ -301,7 +301,7 @@
 "Link copied to clipboard" = "링크가 클립보드에 복사됨";
 
 /* No comment provided by engineer. */
-"Look at your upcoming occasions in a timeline so you can keep track of what is nearing." = "타임라인에 다가오는 기념일들을 봄으로서 주변에 무슨 일이 이러나고 있는지 계속 확인하세요.";
+"Look at your upcoming occasions in a timeline so you can keep track of what is nearing." = "타임라인에 다가오는 기념일들을 봄으로 서 주변에 무슨 일이 이러나고 있는지 계속 확인하세요.";
 
 /* No comment provided by engineer. */
 "Looks like you haven't made a purchase" = "구매를 하지 않으신것 같군요";
@@ -406,7 +406,7 @@
 "Set Custom Gyfting Occasions" = “나만의 선물주기 시즌을 만들어봐요”;
 
 /* No comment provided by engineer. */
-"Set notifications prior to the occasion so you have time to plan the perfect Gyft." = “기념일전에 알림를 설정함으로 서 완벽한 선물을 계획할 시간을 가지세요.”;
+"Set notifications prior to the occasion so you have time to plan the perfect Gyft." = “기념일전에 알림를  서 완벽한 선물을 계획할 시간을 가지세요.”;
 
 /* No comment provided by engineer. */
 "Settings" = "설정";
@@ -442,7 +442,7 @@
 "Theme" = “테마”;
 
 /* No comment provided by engineer. */
-"Three" = “삼”;
+"Three" = “3”;
 
 /* No comment provided by engineer. */
 "Timeline" = “타임라인”;
@@ -457,7 +457,7 @@
 "Twitter" = "트위터";
 
 /* No comment provided by engineer. */
-"Two" = "두개";
+"Two" = "2";
 
 /* No comment provided by engineer. */
 "Unable to edit" = "수정을 할수 없음";
