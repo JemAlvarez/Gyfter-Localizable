@@ -48,7 +48,7 @@
 "Date: %@" = "날: %@";
 
 /* No comment provided by engineer. */
-"In: %@" = "In: %@";
+"In: %@" = "남은 시간: %@";
 
 /* No comment provided by engineer. */
 "Occasions" = "기념일들”;
