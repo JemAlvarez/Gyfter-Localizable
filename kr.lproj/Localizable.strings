@@ -33,10 +33,10 @@
 
 "For:" = "위하여:";
 
-"If your occasions are not being synced, add or edit an occasion on your phone." = "만약 기념일들이 동기화 되지 않은다면, 당신의 폰에서 기념일을 추가하거나 편집해 보세요.";
+"If your occasions are not being synced, add or edit an occasion on your phone." = "만약 기념일들이 동기화 되지 않은다면, 당신의 핸드폰에서 기념일을 추가하거나 편집해 보세요.";
 
 /* No comment provided by engineer. */
-"Recurring: %@" = "반복되는: %@";
+"Recurring: %@" = “주기: %@";
 
 /* No comment provided by engineer. */
 "Relationship: %@" = "관계: %@";
@@ -91,7 +91,7 @@
 "1 Occasion" = "기념일";
 
 /* No comment provided by engineer. */
-"50 Occasion Limit" = "50개의 기념일 제한";
+"50 Occasion Limit" = “최대 50개 까지 저장할 수 있음“;
 
 /* No comment provided by engineer. */
 "A-Z" = "ㄱ-ㅎ";
@@ -112,7 +112,7 @@
 "Alternate icons" = "다른 아이콘들";
 
 /* No comment provided by engineer. */
-"Animations - Jeffrey" = "Animations - Jeffrey";
+"Animations - Jeffrey" = “에니메이션 - Jeffrey";
 
 /* No comment provided by engineer. */
 "App Version: %@" = "앱 버전: %@";
@@ -127,7 +127,7 @@
 "Avatar style" = "아바타 스타일";
 
 /* No comment provided by engineer. */
-"Avatars - DiceBear" = "Avatars - DiceBear";
+"Avatars - DiceBear" = “아바타 - DiceBear";
 
 /* No comment provided by engineer. */
 "Aww 😢😅" = "ㅜㅜ 😢😅";
@@ -211,7 +211,7 @@
 "Design" = "디자인";
 
 /* No comment provided by engineer. */
-"Disabling or enabling notifications is shared across all of your devices" = "알림 활성화 및 비활성화는 모든 기기가 동일하게 영향을 받습니다.";
+"Disabling or enabling notifications is shared across all of your devices" = "알림 활성화 및 비활성화는 모든 기기가 동일하게 영향을 줍니다.”;
 
 /* No comment provided by engineer. */
 "Don't forget to gift your loved ones on any special occasion." = "특별한 기념일에 사랑하는 이에 선물하는 것을 잊지 마세요.";
@@ -226,7 +226,7 @@
 "English" = "영어";
 
 /* No comment provided by engineer. */
-"Enter a person's name" = "사람의 이름을 입력하세요";
+"Enter a person's name" = “상대방의 이름을 입력하세요";
 
 /* No comment provided by engineer. */
 "for Supporting me" = "절 후훤해 주셔서";
@@ -250,19 +250,19 @@
 "Get Notified" = "알림 받기";
 
 /* No comment provided by engineer. */
-"Global dates" = "글로벌 날짜";
+"Global dates" = "글로벌 기념일들”;
 
 /* No comment provided by engineer. */
 "Go Gyft Love" = "Go Gyft Love";
 
 /* No comment provided by engineer. */
-"Go to setting to edit" = "Go to setting to edit";
+"Go to setting to edit" = “설정으로 들어가 편집하기;
 
 /* No comment provided by engineer. */
-"Go to settings" = "설정 ";
+"Go to settings" = "설정 바로가기 ";
 
 /* No comment provided by engineer. */
-"Graphics - unDraw" = "Graphics - unDraw";
+"Graphics - unDraw" = “그래픽 - unDraw";
 
 /* No comment provided by engineer. */
 "Happening" = "해프닝";
@@ -271,7 +271,7 @@
 "Illustrations" = "일러스트레이션";
 
 /* No comment provided by engineer. */
-"Illustrations - Maria" = "Illustrations - Maria";
+"Illustrations - Maria" = “일러스트레이션 - Maria";
 
 /* No comment provided by engineer. */
 "in %@" = "in %@";
@@ -283,10 +283,10 @@
 "Include person name?" = "상대방의 이름을 추가하실래요?";
 
 /* No comment provided by engineer. */
-"Keep all your Apple devices synced." = "당신의 모든 애플 기기들이 동기화 되게 유지하세요.";
+"Keep all your Apple devices synced." = "당신의 모든 애플 기기들의 동기화를 유지하세요.";
 
 /* No comment provided by engineer. */
-"Keep track of your upcoming occasions from your home screen to reduce the chance of forgetting even more." = "까먹는 가능성을 줄이기 위해 장신의 홈 스크린에서 다가오능 기념일들을 확인하세요.";
+"Keep track of your upcoming occasions from your home screen to reduce the chance of forgetting even more." = “잊어먹을 수 있는 가능성을 줄이기 위해 장신의 홈 스크린에서 다가오는 기념일들을 확인하세요.";
 
 /* No comment provided by engineer. */
 "Language" = "언어";
@@ -322,7 +322,7 @@
 "Notifications" = "알림";
 
 /* No comment provided by engineer. */
-"Notifications alert you when an Occasion is **\"Added/Updated/Deleted\"** on another one of your devices so you can **\"Add/Update/Delete\"** the notifications on the current device." = "Notifications alert you when an Occasion is **\"Added/Updated/Deleted\"** on another one of your devices so you can **\"Add/Update/Delete\"** the notifications on the current device.";
+"Notifications alert you when an Occasion is **\"Added/Updated/Deleted\"** on another one of your devices so you can **\"Add/Update/Delete\"** the notifications on the current device." = "알림은 만약 어떤 기념일이 다른 장치에서 **\"추가/업데이트/삭제\"**가 되면 경고를 표함으로서 당신이 현재 장치에서 **\"추가/업데이트/삭제\”** 를할 수 있습니다.";
 
 /* No comment provided by engineer. */
 "Occasion" = "기념일";
@@ -346,7 +346,7 @@
 "Pick a background" = "백그라운드 화면을 고르세요";
 
 /* No comment provided by engineer. */
-"Pick what days you want to be reminded about from globally recognized Gyfting dates." = "Pick what days you want to be reminded about from globally recognized Gyfting dates.";
+"Pick what days you want to be reminded about from globally recognized Gyfting dates." = “글로볼 기념일들 중에서 어떤 날들에 대해 알림을 받고 싶은지 선택하세요.”;
 
 /* No comment provided by engineer. */
 "Pink" = "핑크";
@@ -367,46 +367,46 @@
 "Remember Gyfting Seasons" = "선물하기 시즌을 기억하세요";
 
 /* Keep in mind the trailing space */
-"Remind " = "Remind ";
+"Remind " = “알림 ";
 
 /* No comment provided by engineer. */
-"Reminders Synced" = "Reminders Synced";
+"Reminders Synced" = “알림들이 동기화됨“;
 
 /* No comment provided by engineer. */
-"Reminding %lld days before" = "Reminding %lld days before";
+"Reminding %lld days before" = "%lld일 전에 알림“;
 
 /* No comment provided by engineer. */
-"Reminding 1 day before" = "Reminding 1 day before";
+"Reminding 1 day before" = “하루 전에 알림“;
 
 /* No comment provided by engineer. */
-"Remove occasion" = "Remove occasion";
+"Remove occasion" = “기념일 지우기“;
 
 /* No comment provided by engineer. */
-"Reset app" = "Reset app";
+"Reset app" = “앱 설정 초기화“;
 
 /* No comment provided by engineer. */
-"Restore Purchases" = "Restore Purchases";
+"Restore Purchases" = “구매 기록 복원하기”;
 
 /* No comment provided by engineer. */
-"Sad to see you cancel" = "Sad to see you cancel";
+"Sad to see you cancel" = “취소를 하셔서 슬퍼요”;
 
 /* No comment provided by engineer. */
-"SAVE" = "SAVE";
+"SAVE" = “저장”;
 
 /* No comment provided by engineer. */
-"Schedule every year?" = "Schedule every year?";
+"Schedule every year?" = “매해 마다 반복되나요?”;
 
 /* No comment provided by engineer. */
-"Scheduled occasions" = "Scheduled occasions";
+"Scheduled occasions" = “기념일을 계획하세요“;
 
 /* No comment provided by engineer. */
-"Select from Global Gyfting Dates" = "Select from Global Gyfting Dates";
+"Select from Global Gyfting Dates" = “글로벌하게 통용되는 선물주기 날들에서 선택하세요“;
 
 /* No comment provided by engineer. */
-"Set Custom Gyfting Occasions" = "Set Custom Gyfting Occasions";
+"Set Custom Gyfting Occasions" = “나만의 선물주기 시즌을 만들어봐요”;
 
 /* No comment provided by engineer. */
-"Set notifications prior to the occasion so you have time to plan the perfect Gyft." = "Set notifications prior to the occasion so you have time to plan the perfect Gyft.";
+"Set notifications prior to the occasion so you have time to plan the perfect Gyft." = “기념일전에 알림를 설정함으로 서 완벽한 선물을 계획할 시간을 가지세요.”;
 
 /* No comment provided by engineer. */
 "Settings" = "설정";
@@ -418,34 +418,34 @@
 "Share with friends" = "친구와 함께 공유하기";
 
 /* No comment provided by engineer. */
-"Spanish" = "스";
+"Spanish" = "스페인어”;
 
 /* No comment provided by engineer. */
-"Start scheduling your loved ones' Gyfts." = "Start scheduling your loved ones' Gyfts.";
+"Start scheduling your loved ones' Gyfts." = “당시이 사랑하는 이의 기념일을 계획하세요”;
 
 /* No comment provided by engineer. */
-"Support for %@" = "Support for %@";
+"Support for %@" = “%@을 “후원해주셔서;
 
 /* No comment provided by engineer. */
-"Supporter Features" = "Supporter Features";
+"Supporter Features" = “후원자들이 얻는 기능들”;
 
 /* No comment provided by engineer. */
-"Syncing" = "Syncing";
+"Syncing" = “동기화중”;
 
 /* No comment provided by engineer. */
-"System" = "System";
+"System" = “시스템”;
 
 /* No comment provided by engineer. */
-"Thank you" = "Thank you";
+"Thank you" = “감사합니다”;
 
 /* No comment provided by engineer. */
-"Theme" = "Theme";
+"Theme" = “테마”;
 
 /* No comment provided by engineer. */
-"Three" = "Three";
+"Three" = “삼”;
 
 /* No comment provided by engineer. */
-"Timeline" = "Timeline";
+"Timeline" = “타임라인”;
 
 /* No comment provided by engineer. */
 "Title" = "제목";
@@ -463,10 +463,10 @@
 "Unable to edit" = "수정을 할수 없음";
 
 /* No comment provided by engineer. */
-"Unscheduled occasions" = "Unscheduled occasions";
+"Unscheduled occasions" = “계획이 되지 않은 기념일”;
 
 /* No comment provided by engineer. */
-"Warning! This action cannot be undone. This will reset all the settings in the app, and reset all saved occasions." = "Warning! This action cannot be undone. This will reset all the settings in the app, and reset all saved occasions.";
+"Warning! This action cannot be undone. This will reset all the settings in the app, and reset all saved occasions." = “주의! 이 동작은 되돌리 수 없습니다. 이것은 애의 모든 설정과, 다른 저장된 모든 기념일이 삭제될 것 입니다.";
 
 /* No comment provided by engineer. */
 "Widgets" = "위젯";
@@ -488,7 +488,7 @@
 
 /* Notifications */
 
-"days until" = "days until";
+"days until" = “당일 날 까지 일 수”;
 
 /* Keep in mind the trailing space */
 "'s " = "'s ";
@@ -537,9 +537,9 @@
 
 "Mother's Day" = "어버이날";
 
-"Father's Day" = "Father's Day";
+"Father's Day" = “아버지의 날”;
 
-"Chinese New Year" = "Chinese New Year";
+"Chinese New Year" = “신년”;
 
 "Memorial Day" = "메모리얼 데이";
 
