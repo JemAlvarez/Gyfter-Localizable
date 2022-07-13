@@ -145,7 +145,7 @@
 "Built with ❤️ by Jem on 🌎" = "🌎 에 있는 Jem 의 ❤️ 으로 만들어 짐";
 
 /* No comment provided by engineer. */
-"By becoming a 'Supporter', you support me and also get these extra features :)" = "후원자가 됨으로서, 저를 지원해주고 추가의 기능들을 사용하세요 :)";
+"By becoming a 'Supporter', you support me and also get these extra features :)" = "후원자가 됨으로서, 저를 지원해주고 추가의 기능들을 사용해보세요 :)";
 
 /* No comment provided by engineer. */
 "Can't edit global Occasions" = "글로벌 기념일들은 수정할 수 없습니다.";
@@ -157,7 +157,7 @@
 "Card's background color" = "카드의 백그라운드 색깔";
 
 /* No comment provided by engineer. */
-"Change card background color?" = "카드의 백그라운드 색깔을 변경하시기겠습니까?";
+"Change card background color?" = "카드의 백그라운드 색깔을 변경하시겠습니까?";
 
 /* No comment provided by engineer. */
 "Christmas" = "크리스마스";
@@ -190,7 +190,7 @@
 "day" = "일";
 
 /* No comment provided by engineer. */
-"days" = "일들";
+"days" = "일";
 
 /* No comment provided by engineer. */
 "Days to remind ahead" = "알림 ";
@@ -229,7 +229,7 @@
 "Enter a person's name" = “상대방의 이름을 입력하세요";
 
 /* No comment provided by engineer. */
-"for Supporting me" = "절 후훤해 주셔서";
+"for Supporting me" = "for Supporting me";
 
 /* No comment provided by engineer. */
 "Fourth of July" = "미국의 독립기념일";
@@ -274,7 +274,7 @@
 "Illustrations - Maria" = “일러스트레이션 - Maria";
 
 /* No comment provided by engineer. */
-"in %@" = "in %@";
+"in %@" = "남은 시간 %@";
 
 /* No comment provided by engineer. */
 "Include description?" = "자세한 사항을 추가하실래요?";
@@ -292,7 +292,7 @@
 "Language" = "언어";
 
 /* No comment provided by engineer. */
-"Languages" = "언어들";
+"Languages" = "언어";
 
 /* No comment provided by engineer. */
 "Light" = "라이트";
@@ -304,13 +304,13 @@
 "Look at your upcoming occasions in a timeline so you can keep track of what is nearing." = "타임라인에 다가오는 기념일들을 봄으로 서 주변에 무슨 일이 이러나고 있는지 계속 확인하세요.";
 
 /* No comment provided by engineer. */
-"Looks like you haven't made a purchase" = "구매를 하지 않으신것 같군요";
+"Looks like you haven't made a purchase" = "구매를 하지 않으신 것 같군요";
 
 /* No comment provided by engineer. */
 "month" = "달";
 
 /* No comment provided by engineer. */
-"months" = "달들";
+"months" = "달";
 
 /* No comment provided by engineer. */
 "Next date: %@" = "다음 날짜: %@";
@@ -337,7 +337,7 @@
 "Occasion Updated" = "기념일이 업데이트됨";
 
 /* No comment provided by engineer. */
-"One" = "일";
+"One" = "1";
 
 /* No comment provided by engineer. */
 "Person" = "사람";
@@ -397,7 +397,7 @@
 "Schedule every year?" = “매해 마다 반복되나요?”;
 
 /* No comment provided by engineer. */
-"Scheduled occasions" = “기념일을 계획하세요“;
+"Scheduled occasions" = “계획된 기념일들“;
 
 /* No comment provided by engineer. */
 "Select from Global Gyfting Dates" = “글로벌하게 통용되는 선물주기 날들에서 선택하세요“;
@@ -406,7 +406,7 @@
 "Set Custom Gyfting Occasions" = “나만의 선물주기 시즌을 만들어봐요”;
 
 /* No comment provided by engineer. */
-"Set notifications prior to the occasion so you have time to plan the perfect Gyft." = “기념일전에 알림를  서 완벽한 선물을 계획할 시간을 가지세요.”;
+"Set notifications prior to the occasion so you have time to plan the perfect Gyft." = “기념일전에 알림를 받음으로 서 완벽한 선물을 계획할 시간을 가지세요.”;
 
 /* No comment provided by engineer. */
 "Settings" = "설정";
@@ -424,10 +424,10 @@
 "Start scheduling your loved ones' Gyfts." = “당시이 사랑하는 이의 기념일을 계획하세요”;
 
 /* No comment provided by engineer. */
-"Support for %@" = “%@을 “후원해주셔서;
+"Support for %@" = “%@을 “후원해주세요;
 
 /* No comment provided by engineer. */
-"Supporter Features" = “후원자들이 얻는 기능들”;
+"Supporter Features" = “후원자가 얻는 기능들”;
 
 /* No comment provided by engineer. */
 "Syncing" = “동기화중”;
@@ -463,39 +463,39 @@
 "Unable to edit" = "수정을 할수 없음";
 
 /* No comment provided by engineer. */
-"Unscheduled occasions" = “계획이 되지 않은 기념일”;
+"Unscheduled occasions" = “계획이 되지 않은 기념일들”;
 
 /* No comment provided by engineer. */
-"Warning! This action cannot be undone. This will reset all the settings in the app, and reset all saved occasions." = “주의! 이 동작은 되돌리 수 없습니다. 이것은 애의 모든 설정과, 다른 저장된 모든 기념일이 삭제될 것 입니다.";
+"Warning! This action cannot be undone. This will reset all the settings in the app, and reset all saved occasions." = “주의! 이 동작은 되돌리 수 없습니다. 이것은 앱의 모든 설정과, 다른 저장된 모든 기념일들이 삭제될 것 입니다.";
 
 /* No comment provided by engineer. */
 "Widgets" = "위젯";
 
 /* No comment provided by engineer. */
-"year" = "해";
+"year" = "년";
 
 /* No comment provided by engineer. */
-"years" = "해";
+"years" = "년";
 
 /* No comment provided by engineer. */
-"You can only have 50 occasions saved at any one time. Delete any unimportant ones if you wish to add more." = "최대 50개의 기념일만 저장할 수 있습니다. 만약 새로운 기념일을 추가하고 싶으면, 다른 중요하지 않은 기념일들을 삭제하세요";
+"You can only have 50 occasions saved at any one time. Delete any unimportant ones if you wish to add more." = "최대 50개의 기념일만 저장할 수 있습니다. 만약 새로운 기념일을 추가하고 싶으면, 다른 중요하지 않은 기념일들을 삭제해주세요";
 
 /* No comment provided by engineer. */
-"Your reminders were successfully synced on this device!" = "당신의 알림들이 성공적으로 다른 기기들과 동기화가 되었습니다.";
+"Your reminders were successfully synced on this device!" = "당신의 알림들이 성공적으로 이 기기에서 동기화가 되었습니다.";
 
 /* No comment provided by engineer. */
 "Z-A" = "ㅎ-ㄱ";
 
 /* Notifications */
 
-"days until" = “당일 날 까지”;
+"days until" = “days until”;
 
 /* Keep in mind the trailing space */
-"'s " = "'s ";
+"'s " = "의 ";
 
 "Reschedule reminder for" = "알림 변경 하기”;
 
-"Open the app to ensure you are reminded next year about" = "앱을 실행시켜 다음 해에도 알림이 설정되어 있는지 확인하세요";
+"Open the app to ensure you are reminded next year about" = "앱을 실행시켜 다음 해에 알림이 설정되어 있는지 확인하세요";
 
 "Schedule Notification" = "알림 설정하기";
 
@@ -509,7 +509,7 @@
 
 "Occasion added" = "기념일이 추가됨";
 
-"Open the app to ensure reminders sync on this device too!" = "앱을 실행시켜 알림이 이 기기에 동기화 되었는지 확인하세요";
+"Open the app to ensure reminders sync on this device too!" = "앱을 실행시켜 알림이 이 기기에 동기화가 되었는지 확인하세요";
 
 /* Occasion Types */
 
@@ -531,7 +531,7 @@
 
 "St. Patrick's Day" = "성 패트릭의 날";
 
-"Fourth Of July" = "미국의 독립기념일 ";
+"Fourth Of July" = "미국의 독립기념일";
 
 "Easter" = "부화절";
 
@@ -557,7 +557,7 @@
 
 "Grandmother" = "할머니";
 
-"Grandparent" = "할아버지, 할머니";
+"Grandparent" = "조부모";
 
 "Brother" = "형";
 
@@ -605,4 +605,4 @@
 
 "Glance at your upcoming or chosen occasions right from your home screen." = "다가오거나 선택된 기념일들을 당신의 홈 스크린에서 훑어보세요.";
 
-"in" = "안";
+"in" = "남은 시간";
