@@ -229,7 +229,7 @@
 "Enter a person's name" = “상대방의 이름을 입력하세요";
 
 /* No comment provided by engineer. */
-"for Supporting me" = "for Supporting me";
+"for Supporting me" = "저를 후원해주셔서";
 
 /* No comment provided by engineer. */
 "Fourth of July" = "미국의 독립기념일";
@@ -488,7 +488,7 @@
 
 /* Notifications */
 
-"days until" = “days until”;
+"days until" = “남은 일수”;
 
 /* Keep in mind the trailing space */
 "'s " = "의 ";
